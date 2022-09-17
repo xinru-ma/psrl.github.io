@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TSHMBFF');</script>
+<!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8">
+    <title>Political Science Research Lab</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Political Science Research Lab">
+	
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet" media="screen">
+    <link href="css/myresume.css" rel="stylesheet">
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="stylesheet" href="font-awesome-4.1.0/css/font-awesome.min.css">
+  
+    <style>
+      body {
+        padding-top: 40px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+    </style>
+
+
+
+  </head>
+
+  <body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSHMBFF"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <a href="http://xinruma.com" class="brand" href="#"> PSRL </a>
+          <ul class="nav navbar-nav">
+              <li class="active"><a href="index.html">Home</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="research.html">Research</a></li>
+              <li><a href="people.html">People</a></li>
+	      <li><a href="partners.html">Partners</a></li>
+	      <li><a href="training.html">Data Training</a></li>
+
+          </ul>                
+
+            </div>
+        </div><!-- /navbar-inner -->
+    </div><!-- /navbar -->
+
+ <div class="container">
+      <div class="row">
+        <div class="span4">
+			<div class="well">
+                <div class="avatar">
+                    <img src="img/avatar.JPG" />
+                </div><!--/avatar -->
+                <br class="clearfix" />
+                
+                <div class="bio">
+                    <h1>Political Science Research Lab</h1>
+					<p>Research with computational methods.</p>
+        
+              </div><!--/bio -->
+
+	</div><!--/.well -->
+
+        </div><!--/span-->
+
+	       
+
+<div class="span8">
+		  
+          <div class="hero-unit">
+      
+            <p>Students lead, mentors support.   </p>
+
+      </div>
+
+      <div class="header">
+      <hr />
+      <h2>Student-led Research Project </h2></br>
+	      <h3><i> To be updated.</i></h3></br>
+
+      </div>
+          <div class="row">
+
+ 
+		      
+		
+
+
+
+      <hr />
+
+<!--
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/myresume.js"></script>
+
+
+  </body>
+</html>
